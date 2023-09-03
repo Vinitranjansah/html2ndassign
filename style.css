@@ -1,0 +1,71 @@
+body {
+    font-family: Lucida Console, Monaco, monospace;
+    
+    padding: 10px;
+    background-color: #c4cbec;
+  }
+
+  .page-setup {
+    width: 400px;
+    background-color: rgb(149, 170, 174);
+    border-radius: 20px;
+    
+    padding: 50px;
+    margin: 50px auto;
+  }
+
+
+
+  .page-color label {
+    
+    margin-bottom: 10px;
+    font-weight: bold;
+  }
+
+  .theme-select {
+    margin-top: 10px;
+  }
+
+  .theme-select label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+
+  .theme-select select {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+
+  .theme-preview {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    text-align: center;
+  }
+
+  /* Theme Styles */
+  .theme-light {
+    background-color: white;
+    color: #333;
+  }
+
+  .theme-dark {
+    background-color: #333;
+    color: white;
+  }
+  .theme-Red {
+    background-color: red;
+    color: black;
+  }
+  .theme-Blue {
+    background-color: blue;
+    color: black;
+  }
+  .theme-Pink {
+    background-color: pink;
+    color: black;
+  }
